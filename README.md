@@ -2,7 +2,7 @@
 
 A beautiful and intuitive water consumption tracking application built with React and Tailwind CSS. Monitor your daily water intake, track your progress, and view insightful statistics about your hydration habits.
 
-![Water Tracker Demo](https://via.placeholder.com/800x500/3b82f6/ffffff?text=Water+Intake+Tracker)
+![Water Tracker Demo](https://wateriscool.vercel.app/)
 
 ## ✨ Features
 
