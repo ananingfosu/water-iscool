@@ -1,0 +1,15 @@
+{
+  "name": "WaterisCool",
+  "short_name": "WaterisCool",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2196f3",
+  "icons": [
+    {
+      "src": "/public/favicon-32x32.jpg",
+      "sizes": "32x32",
+      "type": "image/jpeg"
+    }
+  ]
+}
