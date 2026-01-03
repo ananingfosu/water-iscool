@@ -25,7 +25,7 @@ A beautiful and intuitive water consumption tracking application built with Reac
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/water-app.git
+   git clone https://github.com/ananingfosu/water-iscool.git
    cd water-app
    ```
 2. Install dependencies:
