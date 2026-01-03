@@ -2,7 +2,6 @@ import React, { useState, useEffect, useRef } from 'react';
 import { Droplet, Plus, Trash2, Calendar as CalendarIcon, BarChart3, TrendingUp, Flame, ChevronLeft, ChevronRight } from 'lucide-react';
 import profileImage from './assets/Kwame Fosu Ananing.webp';
 import { SpeedInsights } from '@vercel/speed-insights/react';
-import { Analytics } from "@vercel/analytics/next"
 import { BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer, LineChart, Line } from 'recharts';
 
 export default function WaterLog() {
@@ -1303,7 +1302,6 @@ export default function WaterLog() {
       </div>
     )}
     <SpeedInsights />
-    <Analytics />
     </>
   );
 }
